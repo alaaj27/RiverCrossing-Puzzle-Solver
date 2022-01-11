@@ -13,9 +13,9 @@ Three vampires and three werewolves are on the east side of a river, along with 
 
 
 
-### Run the Vampire and Werewolves (4x4 Puzzle) problem:
+### Run the River Crossing problem:
 * install [swipl](https://www.swi-prolog.org/download/stable) in your machine.
-* To run a sliding tile program interactively for BFS, DFS, or HFS, respectively, use: <br/>
+* To run a puzzle for BFS, DFS, or best-first-search, respectively, use: <br/>
 swipl  ./bfs.pl ./vamp-wolf.pl <br/>
 swipl  ./dfs.pl ./vamp-wolf.pl <br/>
 swipl  ./hfs.pl ./vamp-wolf.pl <br/>
